@@ -1,6 +1,6 @@
 # I made this because I was bored
 
-## Maybe It'll become a testing ground for some code development]
+## Maybe It'll become a testing ground for some code development
 
 ### Or probably my future portfolio
 
